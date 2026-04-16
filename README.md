@@ -1,68 +1,194 @@
+<!-- ═══════════════ HERO ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/mascot/web/mascot-512.png" width="200" alt="Glitch Executor cyber cobra mascot">
+  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/mascot/web/mascot-512.png" width="220" alt="Glitch Executor cyber cobra mascot">
 </p>
 
 <h1 align="center">Glitch Executor</h1>
+
 <p align="center">
-  <em>AI systems for trading, sports intelligence, and e-commerce automation.</em>
-  <br>
-  <a href="https://glitchexecutor.com">glitchexecutor.com</a> ·
-  <a href="https://trade.glitchexecutor.com">trade</a> ·
-  <a href="https://edge.glitchexecutor.com">edge</a> ·
-  <a href="https://grow.glitchexecutor.com">grow</a>
+  <a href="https://github.com/glitch-exec-labs?tab=followers"><img src="https://img.shields.io/github/followers/glitch-exec-labs?color=00ff88&style=for-the-badge&logo=github&labelColor=0a0a0f" alt="Followers"></a>
+  <a href="https://glitchexecutor.com"><img src="https://img.shields.io/badge/-glitchexecutor.com-00ff88?style=for-the-badge&logoColor=white&labelColor=0a0a0f&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwZmY4OCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTggMC04LTMuNTgyLTgtOHMzLjU4Mi04IDgtOCA4IDMuNTgyIDggOC0zLjU4MiA4LTggOHoiLz48L3N2Zz4=" alt="Website"></a>
+  <a href="mailto:support@glitchexecutor.com"><img src="https://img.shields.io/badge/-support%40glitchexecutor.com-0088ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=glitch-exec-labs&style=for-the-badge&color=00ff88&labelColor=0a0a0f" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=We+build+production+AI+that+ships.;9-model+trading+ensembles+%7C+Voice+AI+%7C+Sports+intel;Trading+bots+named+after+snakes.+Literally.;Building+in+the+open+%E2%80%94+17%2B+repos+%26+counting." alt="Typing SVG">
 </p>
 
 ---
 
-We build production AI systems that run autonomously — voice agents that confirm COD orders in Hindi, ad optimizers that close attribution gaps across Meta and Amazon, and trading bots that ensemble across markets.
+## 🧬 What we are
 
-### What we ship
+An independent AI lab based in Toronto. We pick hard, narrow problems where AI ensembles can outperform humans and ship them as production systems.
 
-| Project | What it does | Status |
-|---------|--------------|--------|
-| **[glitch-cod-confirm](https://github.com/glitch-exec-labs/glitch-cod-confirm)** | Voice AI agent (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders. Bilingual Hindi/English. | 🟢 Live |
-| **[glitch-grow-site](https://github.com/glitch-exec-labs/glitch-grow-site)** | Marketing site for our AI digital marketing automation suite. | 🟢 Live |
-| **[glitch-trading-core](https://github.com/glitch-exec-labs/glitch-trading-core)** | Umbrella trading architecture with Oracle coordination and broker-portable design. | 🟢 Active |
-| **[glitch-ouroboros-snake-strategy](https://github.com/glitch-exec-labs/glitch-ouroboros-snake-strategy)** | Flagship multi-bot trading ensemble with portfolio-aware risk controls. | 🟢 Active |
-| **[glitch-cricket-engine](https://github.com/glitch-exec-labs/glitch-cricket-engine)** | Live cricket intelligence engine for IPL and PSL with scenario modeling. | 🟢 Active |
-| **[glitch-nba-engine](https://github.com/glitch-exec-labs/glitch-nba-engine)** | Pregame NBA intelligence engine for market mapping and pricing. | 🟢 Active |
-| **[glitch-indian-king-cobra](https://github.com/glitch-exec-labs/glitch-indian-king-cobra)** | Standalone momentum trading bot with ML gating and news-aware filtering. | 🟢 Active |
-| **[glitch-terciopelo](https://github.com/glitch-exec-labs/glitch-terciopelo)** | Equities strategy: relative value, mean reversion, technical scoring. | 🟢 Active |
-| **[glitch-betting-core](https://github.com/glitch-exec-labs/glitch-betting-core)** | Shared odds, pricing, staking primitives for sports intelligence engines. | 🟢 Active |
+- 🐍 **Snake-themed trading ensemble** — Viper, Cobra, Mamba, Anaconda, Hydra, Taipan, Indian King Cobra, Terciopelo
+- 🎙️ **Voice AI in production** — bilingual Hindi/English COD confirmation agent, live today
+- 📊 **Sports intelligence engines** — ball-by-ball IPL/PSL, pregame NBA market mapping
+- 💸 **Ad optimization** — Meta × Amazon × Shopify cross-platform attribution
+- 🧠 **MCP servers** — first-class LLM tool integrations across our stack
 
-### The stack we work in
+---
 
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glitch-exec-labs&show_icons=true&theme=transparent&hide_border=false&border_color=1e1e2e&bg_color=0a0a0f&title_color=00ff88&icon_color=0088ff&text_color=e5e5e5&include_all_commits=true&count_private=true" alt="Stats">
+  <img src="https://streak-stats.demolab.com?user=glitch-exec-labs&theme=transparent&hide_border=false&border=1e1e2e&background=0a0a0f&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=0088ff&dates=8e8ea0" alt="Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitch-exec-labs&layout=compact&theme=transparent&hide_border=false&border_color=1e1e2e&bg_color=0a0a0f&title_color=00ff88&text_color=e5e5e5&langs_count=10" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glitch-exec-labs&bg_color=0a0a0f&color=00ff88&line=0088ff&point=7c3aed&area=true&area_color=00ff88&hide_border=false&custom_title=Contribution+Activity" alt="Activity Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=glitch-exec-labs&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Trophies">
+</p>
+
+---
+
+## 🛠️ Stack
+
+**Languages & Runtime**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img alt="LiveKit" src="https://img.shields.io/badge/-LiveKit-000000?style=flat&logo=livekit&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white">
-  <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white">
-  <img alt="Meta" src="https://img.shields.io/badge/-Meta_Ads-0467DF?style=flat&logo=meta&logoColor=white">
-  <img alt="Amazon" src="https://img.shields.io/badge/-Amazon_Ads-FF9900?style=flat&logo=amazon&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img alt="MCP" src="https://img.shields.io/badge/-MCP-FF6B35?style=flat&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,bash,go,rust" alt="Languages">
 </p>
 
-### What we're building right now
+**AI / ML / Voice**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=livekit&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sarvam_AI-FF6B6B?style=flat-square&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logoColor=white"></a>
+</p>
 
-- **Closing the Meta → Amazon attribution gap.** When 60% of your Meta ad spend drives purchases on amazon.in (where your Shopify pixel can't see them), reported ROAS lies. We pipe Amazon Seller Central orders into Meta CAPI to recover the hidden conversions.
-- **Multi-tenant voice agents.** Priya is going from one store to many — per-shop prompts, voices, and languages driven by Shopify metafields.
-- **AI ensemble for ad optimization.** Eight-model trading ensemble pattern, applied to Meta/Amazon ad campaign decisions instead of trade signals.
+**E-commerce & Ads**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon_Ads-FF9900?style=flat-square&logo=amazon&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"></a>
+</p>
 
-### Talk to us
+**Trading**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/cTrader-F08F00?style=flat-square&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MT5-4CAF50?style=flat-square&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Interactive_Brokers-E1001A?style=flat-square&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Binance-F3BA2F?style=flat-square&logo=binance&logoColor=black"></a>
+</p>
 
-- **Web:** [glitchexecutor.com](https://glitchexecutor.com) · [grow.glitchexecutor.com](https://grow.glitchexecutor.com)
-- **Email:** support@glitchexecutor.com
-- **Based in:** Toronto 🍁
+**Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,docker,prisma,linux,gcp,git" alt="Infra">
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite" alt="Frontend">
+</p>
 
 ---
 
+## 🚀 What we ship
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it does</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-cod-confirm"><b>glitch-cod-confirm</b></a></td>
+      <td>Voice AI (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders. Bilingual Hindi/English.</td>
+      <td>🟢 Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-ouroboros-snake-strategy"><b>glitch-ouroboros-snake-strategy</b></a></td>
+      <td>Flagship multi-bot trading ensemble with Oracle coordination, portfolio-aware risk controls, broker-portable.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trading-core"><b>glitch-trading-core</b></a></td>
+      <td>Umbrella trading architecture — shared modules, Oracle coordination, MT5-to-cTrader platform direction.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-cricket-engine"><b>glitch-cricket-engine</b></a></td>
+      <td>Live cricket intelligence engine for IPL and PSL. Ball-by-ball analysis, scenario modeling, paper simulation.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-nba-engine"><b>glitch-nba-engine</b></a></td>
+      <td>Pregame NBA intelligence engine for market mapping, pricing, lineup context.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-indian-king-cobra"><b>glitch-indian-king-cobra</b></a></td>
+      <td>Standalone momentum trading bot with timeframe-aware execution, ML gating, news filtering.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-terciopelo"><b>glitch-terciopelo</b></a></td>
+      <td>Equities strategy: relative value, mean reversion, technical scoring, news-aware filtering.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-betting-core"><b>glitch-betting-core</b></a></td>
+      <td>Shared odds, pricing, staking primitives for our sports intelligence engines.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-site"><b>glitch-grow-site</b></a></td>
+      <td>Marketing site for our AI digital marketing suite — voice agents, ad optimization, Shopify automation.</td>
+      <td>🟢 Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-brand-assets"><b>glitch-brand-assets</b></a></td>
+      <td>Shared brand assets — the cyber cobra mascot, favicons, OG images, brand guidelines.</td>
+      <td>🟢 Living</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🔭 Currently shipping
+
+- 🎯 **Meta → Amazon attribution bridge** — 60% of our Meta ad spend drives Amazon purchases invisible to Shopify pixel. We're piping Amazon Seller Central orders into Meta CAPI to recover the hidden conversions.
+- 🗣️ **Multi-tenant Priya** — voice agent going from one store to many, with per-shop prompts, voices, and languages driven by Shopify metafields.
+- 🧠 **AI ensemble for ad optimization** — same 8-model brain pattern as our trading ensemble, applied to Meta/Amazon campaign decisions instead of trade signals.
+- 🤖 **More MCP servers** — Amazon Ads, Meta Ads, cTrader, Shopify, all natively callable from Claude/Cursor.
+
+---
+
+## 🌐 Reach us
+
 <p align="center">
-  <sub>Building in the open. Most of our infrastructure stays private — but the genuinely novel stuff (voice AI for Indian COD, sports intelligence engines, trading ensembles) ships open-source.</sub>
+  <a href="https://glitchexecutor.com"><img src="https://img.shields.io/badge/glitchexecutor.com-0a0a0f?style=for-the-badge&logoColor=00ff88&labelColor=00ff88&color=0a0a0f" alt="Master"></a>
+  <a href="https://trade.glitchexecutor.com"><img src="https://img.shields.io/badge/trade-00ff88?style=for-the-badge&labelColor=0a0a0f" alt="Trade"></a>
+  <a href="https://edge.glitchexecutor.com"><img src="https://img.shields.io/badge/edge-0088ff?style=for-the-badge&labelColor=0a0a0f" alt="Edge"></a>
+  <a href="https://grow.glitchexecutor.com"><img src="https://img.shields.io/badge/grow-7c3aed?style=for-the-badge&labelColor=0a0a0f" alt="Grow"></a>
+</p>
+
+<p align="center">
+  <sub>
+    Based in <b>Toronto 🍁</b> · Building in the open ·
+    Most infrastructure stays private — the genuinely novel work ships open-source.
+  </sub>
+</p>
+
+<!-- Snake contribution animation (requires a GitHub Action at .github/workflows/snake.yml to render to the output branch) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-exec-labs/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" onerror="this.style.display='none'">
 </p>
