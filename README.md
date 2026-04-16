@@ -1,8 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/mascot/web/mascot-512.png" width="200" alt="Glitch Executor cyber cobra mascot">
+</p>
+
 <h1 align="center">Glitch Executor</h1>
 <p align="center">
-  <em>AI systems for e-commerce, ad optimization, and algorithmic trading.</em>
+  <em>AI systems for trading, sports intelligence, and e-commerce automation.</em>
   <br>
-  <a href="https://glitchexecutor.com">glitchexecutor.com</a> · <a href="https://grow.glitchexecutor.com">grow.glitchexecutor.com</a>
+  <a href="https://glitchexecutor.com">glitchexecutor.com</a> ·
+  <a href="https://trade.glitchexecutor.com">trade</a> ·
+  <a href="https://edge.glitchexecutor.com">edge</a> ·
+  <a href="https://grow.glitchexecutor.com">grow</a>
 </p>
 
 ---
