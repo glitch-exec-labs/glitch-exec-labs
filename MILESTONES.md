@@ -6,7 +6,7 @@ This file is mined by our social media agent to generate build-in-public content
 ---
 
 ## Priya — Bilingual COD Confirmation Voice Agent
-**Domain:** Edge / Voice AI  
+**Domain:** Grow / Voice AI  
 **Repo:** glitch-cod-confirm  
 **Status:** Live in production  
 **Date:** 2026-Q1
