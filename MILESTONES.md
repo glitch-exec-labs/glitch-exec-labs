@@ -216,3 +216,21 @@ In ad ops: attribution models + recommendation models + execution layer, coordin
 The pattern generalizes because the underlying problem generalizes: no single model is good at everything, but the right ensemble with the right coordination beats any individual model at its own specialty. The hard part is always the coordination layer, not the individual models.
 
 **Signal tags:** ensemble, ai-architecture, coordination, buildinpublic, glitchexecutor, ailab
+
+## Ad Agent — HITL Action Proposals in Telegram
+**Domain:** Grow  
+**Repo:** glitch-grow-ads-agent  
+**Status:** Active  
+**Date:** 2026-04-20
+
+Managing Meta ads across multiple stores is decision-heavy. Every day dozens of ad sets drift — some outperform and should scale, some decay and should pause. Watching dashboards is a full-time job. Full autonomy on spend changes is too risky when attribution itself is noisy.
+
+So we built the middle path. The agent scans ad accounts on a schedule, detects delta shifts at the ad / ad set / campaign level, and surfaces an Action Proposal in Telegram: what to change, why (ROAS, spend window, clicks), expected impact (incremental spend vs. revenue), and a safety condition (auto-revert if ROAS decays below threshold). Operator approves or rejects. That's it.
+
+Example proposal from shipping day: "Strong performer — ₹65K spent over 14 days at 1.24× ROAS. Proposing 30% daily-budget bump (₹2,200 → ₹2,860). Expected: +₹19,800/mo spend, +₹24,552/mo revenue if ROAS holds. Auto-reverts below 1.0×."
+
+**Key decisions:** HITL over autonomy for every spend change. Evidence block attached to every proposal (no black-box recommendations). 72h auto-expire so stale proposals don't get approved out of context. Auto-revert conditions baked into every scaling action.
+
+**What we learned:** The evidence block matters more than the recommendation. Operators approve faster when they can sanity-check the reasoning. "30% budget bump" is a trust ask. "30% bump because ₹65K at 1.24× ROAS over 14 days" is a decision.
+
+**Signal tags:** grow, metaads, hitl, telegram, roas, attribution, adops, shopify, ensemble
