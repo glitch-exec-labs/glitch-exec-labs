@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/mascot/web/mascot-512.png" width="220" alt="Glitch Executor cyber cobra mascot">
 </p>
 
-<h1 align="center">Glitch Executor</h1>
+<h1 align="center">Glitch Executor Labs</h1>
 
 <p align="center">
   <a href="https://github.com/glitch-exec-labs?tab=followers"><img src="https://img.shields.io/github/followers/glitch-exec-labs?color=00ff88&style=for-the-badge&logo=github&labelColor=0a0a0f" alt="Followers"></a>
@@ -18,9 +18,11 @@
 
 ---
 
+> **Glitch Executor Labs** is one builder shipping AI products across three domains: **Trade** (trading), **Edge** (betting), and **Grow** (digital marketing).
+
 ## 🧬 What we are
 
-An independent AI lab based in Toronto. We pick hard, narrow problems where AI ensembles can outperform humans and ship them as production systems.
+An independent AI lab based in Toronto. One builder, three product domains: **Glitch Trade** for trading, **Glitch Edge** for betting and sports intelligence, and **Glitch Grow** for digital marketing.
 
 - 🐍 **Snake-themed trading ensemble** — Viper, Cobra, Mamba, Anaconda, Hydra, Taipan, Indian King Cobra, Terciopelo
 - 🎙️ **Voice AI in production** — bilingual Hindi/English COD confirmation agent, live today
