@@ -7,7 +7,7 @@ This file is mined by our social media agent to generate build-in-public content
 
 ## Priya — Bilingual COD Confirmation Voice Agent
 **Domain:** Grow / Voice AI  
-**Repo:** glitch-cod-confirm  
+**Repo:** glitch-grow-cod-confirm  
 **Status:** Live in production  
 **Date:** 2026-Q1
 
@@ -25,7 +25,7 @@ The system is multi-tenant by design. Per-shop prompts, voices, and languages ar
 
 ## Ouroboros — Flagship Multi-Bot Trading Ensemble
 **Domain:** Trade  
-**Repo:** glitch-ouroboros-snake-strategy  
+**Repo:** glitch-trade-ouroboros-snake-strategy  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -45,7 +45,7 @@ Broker-portable by design — the abstraction layer supports MT5, cTrader, and I
 
 ## Indian King Cobra — Standalone Momentum Bot
 **Domain:** Trade  
-**Repo:** glitch-indian-king-cobra  
+**Repo:** glitch-trade-indian-king-cobra  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -63,7 +63,7 @@ The ML gate was trained on our own historical signals — which ones led to winn
 
 ## Terciopelo — Equities Relative Value Strategy
 **Domain:** Trade  
-**Repo:** glitch-terciopelo  
+**Repo:** glitch-trade-terciopelo  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -81,7 +81,7 @@ The news-aware layer was added after we got burned: a stock was 2 standard devia
 
 ## Trading Core — Shared Trading Architecture
 **Domain:** Trade  
-**Repo:** glitch-trading-core  
+**Repo:** glitch-trade-core  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -99,7 +99,7 @@ The MT5-to-cTrader migration is happening through this layer. Each bot calls `br
 
 ## Cricket Engine — Live IPL/PSL Intelligence
 **Domain:** Edge / Sports  
-**Repo:** glitch-cricket-engine  
+**Repo:** glitch-edge-cricket-engine  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -117,7 +117,7 @@ We paper-simulated for a full IPL season before going live. The paper simulation
 
 ## NBA Engine — Pregame Market Intelligence
 **Domain:** Edge / Sports  
-**Repo:** glitch-nba-engine  
+**Repo:** glitch-edge-nba-engine  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -133,7 +133,7 @@ Lineup context is the key input. A team missing its starting centre plays differ
 
 ## Betting Core — Shared Sports Intelligence Primitives
 **Domain:** Edge / Sports  
-**Repo:** glitch-betting-core  
+**Repo:** glitch-edge-betting-core  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -149,7 +149,7 @@ The typed decision output was the key design decision. Every engine returns a `B
 
 ## Ads Agent — AI-Driven Ad Operations
 **Domain:** Grow  
-**Repo:** glitch-grow-ads-agent  
+**Repo:** glitch-grow-ai-ads-agent  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -167,7 +167,7 @@ HITL was a deliberate choice. Fully autonomous ad spend changes are too risky wh
 
 ## Meta → Amazon Attribution Bridge
 **Domain:** Grow  
-**Repo:** glitch-grow-ads-agent  
+**Repo:** glitch-grow-ai-ads-agent  
 **Status:** Shipping  
 **Date:** 2026-Q2
 
@@ -185,7 +185,7 @@ This is the infrastructure piece that makes the ads agent's attribution view acc
 
 ## Social Media Agent — Autonomous Build-in-Public Engine
 **Domain:** Grow / Infrastructure  
-**Repo:** glitch-social-media-agent  
+**Repo:** glitch-grow-ai-social-media-agent  
 **Status:** Active  
 **Date:** 2026-Q1
 
@@ -219,7 +219,7 @@ The pattern generalizes because the underlying problem generalizes: no single mo
 
 ## Ad Agent — HITL Action Proposals in Telegram
 **Domain:** Grow  
-**Repo:** glitch-grow-ads-agent  
+**Repo:** glitch-grow-ai-ads-agent  
 **Status:** Active  
 **Date:** 2026-04-20
 
