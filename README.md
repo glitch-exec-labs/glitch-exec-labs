@@ -1,6 +1,6 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/mascot/web/mascot-512.png" width="220" alt="Glitch Executor cyber cobra mascot">
+  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-executor-labs-brand-assets/main/mascot/web/mascot-512.png" width="220" alt="Glitch Executor cyber cobra mascot">
 </p>
 
 <h1 align="center">Glitch Executor Labs</h1>
@@ -111,42 +111,42 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-cod-confirm"><b>glitch-cod-confirm</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-cod-confirm"><b>glitch-grow-cod-confirm</b></a></td>
       <td>Voice AI (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders. Bilingual Hindi/English.</td>
       <td>🟢 Live</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-ouroboros-snake-strategy"><b>glitch-ouroboros-snake-strategy</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-ouroboros-snake-strategy"><b>glitch-trade-ouroboros-snake-strategy</b></a></td>
       <td>Flagship multi-bot trading ensemble with Oracle coordination, portfolio-aware risk controls, broker-portable.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-trading-core"><b>glitch-trading-core</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-core"><b>glitch-trade-core</b></a></td>
       <td>Umbrella trading architecture — shared modules, Oracle coordination, MT5-to-cTrader platform direction.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-cricket-engine"><b>glitch-cricket-engine</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-edge-cricket-engine"><b>glitch-edge-cricket-engine</b></a></td>
       <td>Live cricket intelligence engine for IPL and PSL. Ball-by-ball analysis, scenario modeling, paper simulation.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-nba-engine"><b>glitch-nba-engine</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-edge-nba-engine"><b>glitch-edge-nba-engine</b></a></td>
       <td>Pregame NBA intelligence engine for market mapping, pricing, lineup context.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-indian-king-cobra"><b>glitch-indian-king-cobra</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-indian-king-cobra"><b>glitch-trade-indian-king-cobra</b></a></td>
       <td>Standalone momentum trading bot with timeframe-aware execution, ML gating, news filtering.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-terciopelo"><b>glitch-terciopelo</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-terciopelo"><b>glitch-trade-terciopelo</b></a></td>
       <td>Equities strategy: relative value, mean reversion, technical scoring, news-aware filtering.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-betting-core"><b>glitch-betting-core</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-edge-betting-core"><b>glitch-edge-betting-core</b></a></td>
       <td>Shared odds, pricing, staking primitives for our sports intelligence engines.</td>
       <td>🟢 Active</td>
     </tr>
@@ -156,7 +156,7 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
       <td>🟢 Live</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-brand-assets"><b>glitch-brand-assets</b></a></td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-executor-labs-brand-assets"><b>glitch-executor-labs-brand-assets</b></a></td>
       <td>Shared brand assets — the cyber cobra mascot, favicons, OG images, brand guidelines.</td>
       <td>🟢 Living</td>
     </tr>
@@ -199,23 +199,23 @@ _Last refreshed: 2026-04-20 · sorted by most recent push_
 
 | Repo | Description | Lang | ★ | Last push |
 | --- | --- | --- | --- | --- |
-| [glitch-ouroboros-snake-strategy](https://github.com/glitch-exec-labs/glitch-ouroboros-snake-strategy) | Flagship multi-bot trading ensemble with Oracle coordination, portfolio-aware risk controls, and broker-portable design. | Python | 1 | 2026-04-20 |
-| [glitchexecutor-portfolio](https://github.com/glitch-exec-labs/glitchexecutor-portfolio) | Master portfolio site for Glitch Executor — links the Trade, Edge, and Grow product lines under one brand. | Astro | 0 | 2026-04-20 |
+| [glitch-trade-ouroboros-snake-strategy](https://github.com/glitch-exec-labs/glitch-trade-ouroboros-snake-strategy) | Flagship multi-bot trading ensemble with Oracle coordination, portfolio-aware risk controls, and broker-portable design. | Python | 1 | 2026-04-20 |
+| [glitch-executor-labs-portfolio](https://github.com/glitch-exec-labs/glitch-executor-labs-portfolio) | Master portfolio site for Glitch Executor — links the Trade, Edge, and Grow product lines under one brand. | Astro | 0 | 2026-04-20 |
 | [glitch-trade-site](https://github.com/glitch-exec-labs/glitch-trade-site) | Glitch Trade marketing site for AI-powered crypto trading — 9-model ensemble, Telegram signals, multi-exchange execution. | Astro | 0 | 2026-04-20 |
 | [glitch-grow-site](https://github.com/glitch-exec-labs/glitch-grow-site) | Glitch Grow marketing site for AI-powered e-commerce growth, ads automation, attribution, and voice agents. | Astro | 0 | 2026-04-20 |
 | [glitch-edge-site](https://github.com/glitch-exec-labs/glitch-edge-site) | Glitch Edge marketing site for sports intelligence products — cricket and NBA engines, ML workflows, and product positioning. | Astro | 0 | 2026-04-20 |
 | [glitch-exec-labs](https://github.com/glitch-exec-labs/glitch-exec-labs) | Profile README and public portfolio overview for Glitch Executor — AI systems across trade, edge, and grow. | — | 0 | 2026-04-20 |
-| [glitch-social-media-agent](https://github.com/glitch-exec-labs/glitch-social-media-agent) | Autonomous social media agent — mines shipped artifacts, generates AI short-form video, publishes to YouTube Shorts / X / Instagram Reels, manages ORM with hard guardrails. | Python | 1 | 2026-04-20 |
-| [glitch-grow-ads-agent](https://github.com/glitch-exec-labs/glitch-grow-ads-agent) | AI agent for Shopify ads ops — cross-store ROAS insights, Shopify ↔ Meta tracking reconciliation, and HITL-gated ad management via Telegram. Built with LangGraph, PostHog, Gemini, and python-telegram-bot. | Python | 1 | 2026-04-20 |
-| [glitch-seo](https://github.com/glitch-exec-labs/glitch-seo) | Glitch SEO — Public Shopify App Store listing (AI SEO audit + structured data for Shopify) | JavaScript | 0 | 2026-04-19 |
-| [glitch-cod-confirm](https://github.com/glitch-exec-labs/glitch-cod-confirm) | AI voice agent (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian e-commerce customers to confirm COD orders, cutting RTO rates. Bilingual Hindi/English. Shopify integration. | JavaScript | 1 | 2026-04-19 |
-| [glitch-cricket-engine](https://github.com/glitch-exec-labs/glitch-cricket-engine) | Live cricket intelligence engine for IPL and PSL with scenario modeling, match-state analysis, recorder tooling, and paper simulation. | Python | 0 | 2026-04-17 |
-| [glitch-brand-assets](https://github.com/glitch-exec-labs/glitch-brand-assets) | Shared Glitch Executor brand assets — mascot, favicons, OG images, and visual guidelines for Trade, Edge, and Grow. | Python | 0 | 2026-04-16 |
-| [glitch-trading-core](https://github.com/glitch-exec-labs/glitch-trading-core) | Umbrella Glitch trading architecture, shared modules, Oracle coordination, and MT5-to-cTrader platform direction. | Python | 1 | 2026-04-15 |
-| [glitch-nba-engine](https://github.com/glitch-exec-labs/glitch-nba-engine) | Pregame NBA intelligence engine for market mapping, pricing, lineup context, and paper-first execution workflows. | Python | 0 | 2026-04-14 |
-| [glitch-indian-king-cobra](https://github.com/glitch-exec-labs/glitch-indian-king-cobra) | Standalone momentum trading bot with timeframe-aware execution, ML gating, and news-aware filtering. | Python | 0 | 2026-04-14 |
-| [glitch-betting-core](https://github.com/glitch-exec-labs/glitch-betting-core) | Shared odds, pricing, staking, and typed decision primitives for Glitch sports intelligence engines. | Python | 0 | 2026-04-14 |
-| [glitch-terciopelo](https://github.com/glitch-exec-labs/glitch-terciopelo) | Standalone equities strategy focused on relative value, mean reversion, technical scoring, and news-aware filtering. | Python | 0 | 2026-04-14 |
+| [glitch-grow-ai-social-media-agent](https://github.com/glitch-exec-labs/glitch-grow-ai-social-media-agent) | Autonomous social media agent — mines shipped artifacts, generates AI short-form video, publishes to YouTube Shorts / X / Instagram Reels, manages ORM with hard guardrails. | Python | 1 | 2026-04-20 |
+| [glitch-grow-ai-ads-agent](https://github.com/glitch-exec-labs/glitch-grow-ai-ads-agent) | AI agent for Shopify ads ops — cross-store ROAS insights, Shopify ↔ Meta tracking reconciliation, and HITL-gated ad management via Telegram. Built with LangGraph, PostHog, Gemini, and python-telegram-bot. | Python | 1 | 2026-04-20 |
+| [glitch-grow-seo](https://github.com/glitch-exec-labs/glitch-grow-seo) | Glitch SEO — Public Shopify App Store listing (AI SEO audit + structured data for Shopify) | JavaScript | 0 | 2026-04-19 |
+| [glitch-grow-cod-confirm](https://github.com/glitch-exec-labs/glitch-grow-cod-confirm) | AI voice agent (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian e-commerce customers to confirm COD orders, cutting RTO rates. Bilingual Hindi/English. Shopify integration. | JavaScript | 1 | 2026-04-19 |
+| [glitch-edge-cricket-engine](https://github.com/glitch-exec-labs/glitch-edge-cricket-engine) | Live cricket intelligence engine for IPL and PSL with scenario modeling, match-state analysis, recorder tooling, and paper simulation. | Python | 0 | 2026-04-17 |
+| [glitch-executor-labs-brand-assets](https://github.com/glitch-exec-labs/glitch-executor-labs-brand-assets) | Shared Glitch Executor brand assets — mascot, favicons, OG images, and visual guidelines for Trade, Edge, and Grow. | Python | 0 | 2026-04-16 |
+| [glitch-trade-core](https://github.com/glitch-exec-labs/glitch-trade-core) | Umbrella Glitch trading architecture, shared modules, Oracle coordination, and MT5-to-cTrader platform direction. | Python | 1 | 2026-04-15 |
+| [glitch-edge-nba-engine](https://github.com/glitch-exec-labs/glitch-edge-nba-engine) | Pregame NBA intelligence engine for market mapping, pricing, lineup context, and paper-first execution workflows. | Python | 0 | 2026-04-14 |
+| [glitch-trade-indian-king-cobra](https://github.com/glitch-exec-labs/glitch-trade-indian-king-cobra) | Standalone momentum trading bot with timeframe-aware execution, ML gating, and news-aware filtering. | Python | 0 | 2026-04-14 |
+| [glitch-edge-betting-core](https://github.com/glitch-exec-labs/glitch-edge-betting-core) | Shared odds, pricing, staking, and typed decision primitives for Glitch sports intelligence engines. | Python | 0 | 2026-04-14 |
+| [glitch-trade-terciopelo](https://github.com/glitch-exec-labs/glitch-trade-terciopelo) | Standalone equities strategy focused on relative value, mean reversion, technical scoring, and news-aware filtering. | Python | 0 | 2026-04-14 |
 | [upload-post-pip](https://github.com/glitch-exec-labs/upload-post-pip) | 🐍 Official Python SDK for Upload-Post API. Programmatically publish videos & images to TikTok, Instagram, YouTube, LinkedIn, X, Facebook, Pinterest, Threads, Reddit & Bluesky. | Python | 0 | 2026-04-14 |
 | [RepoAudit](https://github.com/glitch-exec-labs/RepoAudit) | An autonomous LLM-agent for large-scale, repository-level code auditing | Python | 0 | 2026-03-12 |
 
