@@ -48,7 +48,7 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=glitch-exec-labs&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=glitch-exec-labs&theme=matrix&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies">
 </p>
 
 ---
