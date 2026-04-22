@@ -111,53 +111,53 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-cod-confirm"><b>glitch-grow-cod-confirm</b></a></td>
-      <td>Voice AI (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders. Bilingual Hindi/English.</td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-seo"><b>glitch-grow-seo</b></a></td>
+      <td>AI SEO agent — automated audit, structured data injection, and on-page optimisation for Shopify stores. Public Shopify App Store listing.</td>
+      <td>🟢 Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-ai-ads-agent"><b>glitch-grow-ai-ads-agent</b></a></td>
+      <td>AI ads agent — cross-store ROAS insights, Shopify ↔ Meta tracking reconciliation, HITL-gated campaign management via Telegram. LangGraph + pgvector memory.</td>
       <td>🟢 Live</td>
     </tr>
     <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-trade-ouroboros-snake-strategy"><b>glitch-trade-ouroboros-snake-strategy</b></a></td>
-      <td>Flagship multi-bot trading ensemble with Oracle coordination, portfolio-aware risk controls, broker-portable.</td>
+      <td>Ouroboros trading ensemble — 8-model snake-themed bots with Oracle coordination, portfolio-aware risk controls, and broker-portable execution (cTrader / MT5 / IB).</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-core"><b>glitch-trade-core</b></a></td>
-      <td>Umbrella trading architecture — shared modules, Oracle coordination, MT5-to-cTrader platform direction.</td>
-      <td>🟢 Active</td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-ai-social-media-agent"><b>glitch-grow-ai-social-media-agent</b></a></td>
+      <td>Social media agent — mines shipped artifacts, generates AI short-form video, publishes to YouTube Shorts / Instagram Reels / TikTok / X, manages ORM with hard guardrails.</td>
+      <td>🟢 Live</td>
     </tr>
     <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-edge-cricket-engine"><b>glitch-edge-cricket-engine</b></a></td>
-      <td>Live cricket intelligence engine for IPL and PSL. Ball-by-ball analysis, scenario modeling, paper simulation.</td>
+      <td>IPL / PSL intelligence engine — ball-by-ball analysis, live scenario modeling, and paper simulation for sports betting markets.</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-cod-confirm"><b>glitch-grow-cod-confirm</b></a></td>
+      <td>Voice AI (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders and cut RTO rates. Bilingual Hindi/English.</td>
+      <td>🟢 Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-core"><b>glitch-trade-core</b></a></td>
+      <td>Shared trading architecture — Oracle coordination layer, risk primitives, and broker abstraction used across all Glitch Trade bots.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-edge-nba-engine"><b>glitch-edge-nba-engine</b></a></td>
-      <td>Pregame NBA intelligence engine for market mapping, pricing, lineup context.</td>
-      <td>🟢 Active</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-indian-king-cobra"><b>glitch-trade-indian-king-cobra</b></a></td>
-      <td>Standalone momentum trading bot with timeframe-aware execution, ML gating, news filtering.</td>
-      <td>🟢 Active</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-terciopelo"><b>glitch-trade-terciopelo</b></a></td>
-      <td>Equities strategy: relative value, mean reversion, technical scoring, news-aware filtering.</td>
-      <td>🟢 Active</td>
+      <td>Pregame NBA intelligence engine — market mapping, pricing, lineup context, and paper-first execution workflows.</td>
+      <td>🟡 Dev</td>
     </tr>
     <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-edge-betting-core"><b>glitch-edge-betting-core</b></a></td>
-      <td>Shared odds, pricing, staking primitives for our sports intelligence engines.</td>
+      <td>Shared odds, pricing, staking, and typed decision primitives used across all Glitch Edge sports engines.</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-site"><b>glitch-grow-site</b></a></td>
-      <td>Marketing site for our AI digital marketing suite — voice agents, ad optimization, Shopify automation.</td>
-      <td>🟢 Live</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-executor-labs-brand-assets"><b>glitch-executor-labs-brand-assets</b></a></td>
-      <td>Shared brand assets — the cyber cobra mascot, favicons, OG images, brand guidelines.</td>
+      <td>Shared brand assets — cyber cobra mascot, favicons, OG images, and visual guidelines for Trade, Edge, and Grow.</td>
       <td>🟢 Living</td>
     </tr>
   </tbody>
