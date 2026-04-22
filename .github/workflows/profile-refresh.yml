@@ -65,7 +65,7 @@ jobs:
       - name: Refresh trophies SVG
         run: |
           set -euo pipefail
-          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=glitch-exec-labs&theme=matrix&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+          TROPHY_URL="https://gh-profile-trophy.vercel.app/?username=glitch-exec-labs&theme=matrix&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
           HTTP_STATUS=$(curl -s -o trophies.svg -w "%{http_code}" "$TROPHY_URL")
           if [ "$HTTP_STATUS" != "200" ]; then
             echo "Trophy service returned $HTTP_STATUS — keeping existing trophies.svg"
