@@ -1,6 +1,6 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-executor-labs-brand-assets/main/mascot/web/mascot-512.png" width="220" alt="Glitch Executor cyber cobra mascot">
+  <img src="https://raw.githubusercontent.com/glitch-exec-labs/glitch-exec-labs/main/banner.png" width="100%" alt="Glitch Executor Labs — AI that ships. In production.">
 </p>
 
 <h1 align="center">Glitch Executor Labs</h1>
