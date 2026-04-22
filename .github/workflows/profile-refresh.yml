@@ -62,14 +62,26 @@ jobs:
 
           rm -f repos.json auto.md
 
+      - name: Refresh trophies SVG
+        run: |
+          set -euo pipefail
+          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=glitch-exec-labs&theme=matrix&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+          HTTP_STATUS=$(curl -s -o trophies.svg -w "%{http_code}" "$TROPHY_URL")
+          if [ "$HTTP_STATUS" != "200" ]; then
+            echo "Trophy service returned $HTTP_STATUS — keeping existing trophies.svg"
+            rm -f trophies.svg
+          else
+            echo "Trophy SVG fetched OK ($HTTP_STATUS)"
+          fi
+
       - name: Commit if changed
         run: |
-          if git diff --quiet; then
+          if git diff --quiet && git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md trophies.svg 2>/dev/null || git add README.md
           git commit -m "chore: weekly profile README refresh"
           git push
