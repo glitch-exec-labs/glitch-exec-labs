@@ -35,7 +35,7 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitch-exec-labs&show_icons=true&theme=transparent&hide_border=false&border_color=1e1e2e&bg_color=0a0a0f&title_color=00ff88&icon_color=0088ff&text_color=e5e5e5&include_all_commits=true&count_private=true" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=glitch-exec-labs&show_icons=true&theme=transparent&hide_border=false&border_color=1e1e2e&bg_color=0a0a0f&title_color=00ff88&icon_color=0088ff&text_color=e5e5e5&count_private=true" alt="Stats">
   <img src="https://streak-stats.demolab.com?user=glitch-exec-labs&theme=transparent&hide_border=false&border=1e1e2e&background=0a0a0f&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=0088ff&dates=8e8ea0" alt="Streak">
 </p>
 
