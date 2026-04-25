@@ -24,9 +24,9 @@
 
 An independent AI lab based in Toronto. One builder, three product domains: **Glitch Trade** for trading, **Glitch Edge** for betting and sports intelligence, and **Glitch Grow** for digital marketing.
 
-- 🐍 **Snake-themed trading ensemble** — Viper, Cobra, Mamba, Anaconda, Hydra, Taipan, Indian King Cobra, Terciopelo
+- 🐍 **Snake-themed trading ensemble** — Ouroboros is the live multi-bot flagship; earlier standalone bots (Indian King Cobra, Terciopelo, Viper, Mamba, etc.) ran in early production and are now disabled. Fine-tuned models + backtested bots available on request.
 - 🎙️ **Voice AI in production** — bilingual Hindi/English COD confirmation agent, live today
-- 📊 **Sports intelligence engines** — ball-by-ball IPL/PSL, pregame NBA market mapping
+- 🏏 **AI betting bots ready for Cloudbet** — IPL/PSL cricket + NBA pregame engines, both production-ready and locked. Available for sale or programmatic deployment via Cloudbet; custom builds for other sports/markets on request.
 - 💸 **Ad optimization** — Meta × Amazon × Shopify cross-platform attribution
 - 🧠 **MCP servers** — first-class LLM tool integrations across our stack
 
@@ -111,8 +111,8 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-seo"><b>glitch-grow-seo</b></a></td>
-      <td>AI SEO agent — automated audit, structured data injection, and on-page optimisation for Shopify stores. Public Shopify App Store listing.</td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-cod-confirm"><b>glitch-grow-cod-confirm</b></a></td>
+      <td>Voice AI (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders and cut RTO rates. Bilingual Hindi/English.</td>
       <td>🟢 Live</td>
     </tr>
     <tr>
@@ -121,47 +121,54 @@ An independent AI lab based in Toronto. One builder, three product domains: **Gl
       <td>🟢 Live</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-ouroboros-snake-strategy"><b>glitch-trade-ouroboros-snake-strategy</b></a></td>
-      <td>Ouroboros trading ensemble — 8-model snake-themed bots with Oracle coordination, portfolio-aware risk controls, and broker-portable execution (cTrader / MT5 / IB).</td>
-      <td>🟢 Active</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-grow-ai-social-media-agent"><b>glitch-grow-ai-social-media-agent</b></a></td>
-      <td>Social media agent — mines shipped artifacts, generates AI short-form video, publishes to YouTube Shorts / Instagram Reels / TikTok / X, manages ORM with hard guardrails.</td>
+      <td>AI social media agent — short-form video, multi-brand content ops, ORM with hard guardrails.</td>
       <td>🟢 Live</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-edge-cricket-engine"><b>glitch-edge-cricket-engine</b></a></td>
-      <td>IPL / PSL intelligence engine — ball-by-ball analysis, live scenario modeling, and paper simulation for sports betting markets.</td>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-ai-seo-agent"><b>glitch-grow-ai-seo-agent</b></a></td>
+      <td>AI SEO agent — automated audit, structured-data injection, on-page optimisation. Public Shopify App Store listing.</td>
+      <td>🟢 Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/glitch-exec-labs/glitch-trade-ouroboros-snake-strategy"><b>glitch-trade-ouroboros-snake-strategy</b></a></td>
+      <td>Flagship multi-bot trading ensemble — Oracle coordination, portfolio-aware risk, broker-portable (cTrader / MT5 / IB). The only Glitch Trade strategy currently live.</td>
       <td>🟢 Active</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-grow-cod-confirm"><b>glitch-grow-cod-confirm</b></a></td>
-      <td>Voice AI (LiveKit + Sarvam Bulbul v3 + GPT-4o-mini) that calls Indian Shopify customers to confirm COD orders and cut RTO rates. Bilingual Hindi/English.</td>
-      <td>🟢 Live</td>
     </tr>
     <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-trade-core"><b>glitch-trade-core</b></a></td>
-      <td>Shared trading architecture — Oracle coordination layer, risk primitives, and broker abstraction used across all Glitch Trade bots.</td>
+      <td>Umbrella trading architecture — shared modules, Oracle coordination, broker abstraction across cTrader / MT5 / IB.</td>
       <td>🟢 Active</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-edge-nba-engine"><b>glitch-edge-nba-engine</b></a></td>
-      <td>Pregame NBA intelligence engine — market mapping, pricing, lineup context, and paper-first execution workflows.</td>
-      <td>🟡 Dev</td>
     </tr>
     <tr>
       <td><a href="https://github.com/glitch-exec-labs/glitch-edge-betting-core"><b>glitch-edge-betting-core</b></a></td>
-      <td>Shared odds, pricing, staking, and typed decision primitives used across all Glitch Edge sports engines.</td>
+      <td>Shared odds, pricing, staking, and typed decision primitives. Powers the Glitch Edge cricket + NBA betting bots (private — available for sale, see below).</td>
       <td>🟢 Active</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/glitch-exec-labs/glitch-executor-labs-brand-assets"><b>glitch-executor-labs-brand-assets</b></a></td>
-      <td>Shared brand assets — cyber cobra mascot, favicons, OG images, and visual guidelines for Trade, Edge, and Grow.</td>
-      <td>🟢 Living</td>
     </tr>
   </tbody>
 </table>
+
+---
+
+## 💼 For sale / available on request
+
+The product code is open; the **fine-tuned models, locked bots, and tuned playbooks are not.** That's our moat. If any of the below fits your need, reach out at **[support@glitchexecutor.com](mailto:support@glitchexecutor.com)**.
+
+### Glitch Edge — AI betting bots (Cloudbet-ready)
+
+Two production-ready bots, source private and locked:
+
+- **🏏 Cricket bot** — IPL & PSL, ball-by-ball live model, scenario modeling, paper-first promoted to live.
+- **🏀 NBA bot** — pregame intelligence, market mapping, pricing, lineup-context aware.
+
+Both can be deployed for **programmatic betting via Cloudbet** (or any sportsbook with a similar API). Available **for sale** as standalone agents, or as a managed deployment. **Custom builds** for other sports or any AI betting request — just ask.
+
+### Glitch Trade — fine-tuned data + backtested bots
+
+The trading core and the live Ouroboros strategy are public. Underneath:
+
+- **Indian King Cobra**, **Terciopelo**, and several other earlier standalone bots ran in early production and are **disabled today** — only Ouroboros is live.
+- **Backtest archives, fine-tuned model weights, and tuned per-market parameters** for those bots are private. If you want a specific bot — or a bot built around your own data — we can hand off the trained artefacts under a licence, or build to spec.
 
 ---
 
